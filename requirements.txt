@@ -1,0 +1,14 @@
+cirq==1.5.0
+cirq-aqt==1.5.0
+cirq-core==1.5.0
+cirq-google==1.5.0
+cirq-ionq==1.5.0
+cirq-pasqal==1.5.0
+cirq-web==1.5.0
+numpy==2.2.5
+opencv-python==4.11.0.86
+openqasm3==1.0.1
+qiskit==2.1.0
+qiskit-aer==0.17.1
+qiskit-ibm-runtime==0.40.1
+qiskit-qasm3-import==0.6.0
